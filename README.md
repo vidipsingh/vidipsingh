@@ -41,11 +41,11 @@
  - All About living life at its best.
 
  
- <p align="center">
+
+<!--  <p align="center">
   <h4> Full Stack</h4>
    </p>
-
-<!--  -->
+ -->
 
 <br />
 
