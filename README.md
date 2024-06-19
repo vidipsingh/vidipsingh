@@ -2,7 +2,7 @@
    <h1>Hi there, I'm <a href="https://hemant.codes">Vidip</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+  <!-- <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> -->
 </div>
 
 <p align='center'>
@@ -34,7 +34,6 @@
  
  - <i>with Javascript, Typescript and 69 others.</i>
    
- - 🔭 SpaceX FanBoi, die for space😼
 
  
  - I do fullstack and a bit of everything :heart:
@@ -80,8 +79,6 @@
 -->
 
 
-
- ### - What i do
 
 <!--
 <br />
