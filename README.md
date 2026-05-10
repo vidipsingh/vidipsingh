@@ -3,22 +3,22 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/vidip-singh-a0aa5b23b/"><img height="30" src="https://cdn.simpleicons.org/linkedin/0A66C2"></a>  
+   <a href="https://www.linkedin.com/in/vidip-singh-a0aa5b23b/"><img height="30" src="https://i.pinimg.com/564x/6b/ab/30/6bab3017350ca04c6fa05569672bd31e.jpg"></a>  
    <a href="https://x.com/vidip2025"><img height="30" src="https://cdn.simpleicons.org/x/ffffff" ></a>  
 </p>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Vidip Singh | 💻 Full Stack and Python Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Vidip Singh | 💻 Software Engineer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3> I'm 20 years old developer from India.</h3>
+  <h3> I'm 21 years old developer from India.</h3>
 </p>
 
 - Exploring new horizons in full-stack development
-- Learning Python, Web3, and DevOps
+- Learning Go, Python, Web3, and DevOps
 - I do fullstack and a bit of everything :heart:
 - All About living life at its best.
 
